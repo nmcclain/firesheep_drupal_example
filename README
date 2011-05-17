@@ -1,0 +1,7 @@
+Sample Firesheep plugin for non-SSL-protected Drupal.
+
+http://codebutler.com/firesheep
+https://github.com/codebutler/firesheep
+
+This file needs to go in the firesheep handlers directory.  Find it by searching for a standard handler file (such as amazon.js).  Mine is at:
+	/Users/ned/Library/Application Support/Firefox/Profiles/bcr64shz.default/extensions/firesheep@codebutler.com/handlers/
